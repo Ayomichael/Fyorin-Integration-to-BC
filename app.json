@@ -1,0 +1,21 @@
+{
+  "id": "be3a70b8-ec48-420c-85ce-ffa25008b402",
+  "name": "Fyorin API Integration",
+  "publisher": "On Point Ltd",
+  "version": "2.0.0.0",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {"from": 92950,
+    "to": 92999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false  
+  },
+  "runtime": "8.0",
+  "target": "Cloud"
+}
